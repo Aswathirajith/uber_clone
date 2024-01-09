@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+main{
+    background-color: black;
+}
+.main1{
+    height: 800px
+}
+.main_sub1{
+    padding-top: 200px;
+    
+    
+}
+.main_sub1 input{
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.vl {
+    border-left: 2px solid white;
+    height: 10px;
+    margin-left: 12px;
+  }
+  .col3{
+    float: left;
+  }
+  .btn_footer{
+    background: transparent;
+    color: white;
+    border: none;
+    text-align: left;
+  }
